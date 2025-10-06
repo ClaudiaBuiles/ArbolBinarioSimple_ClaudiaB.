@@ -1,6 +1,6 @@
-# Proyecto: Árbol Binario en Java
+# Proyecto: Árbol Binario Simple en Java - IntelliJ
 ## Estudiante
-- **Claudia Builes**
+- **Claudia Patricia Builes Correa**
 
 ##  Objetivos
 Desarrollar un programa en **Java** que implemente un **árbol binario simple**, permitiendo:
