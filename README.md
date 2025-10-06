@@ -30,7 +30,6 @@ También incluye un **menú en consola** para interactuar con el usuario.
 
 [ArbolBinarioMain.java](https://github.com/user-attachments/files/22713360/ArbolBinarioMain.java)import java.util.Scanner;
 
-// Clase principal con menú en consola
 public class ArbolBinarioMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
