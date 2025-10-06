@@ -5,7 +5,7 @@
 ##  Objetivos
 Desarrollar un programa en **Java** que implemente un **árbol binario simple**, permitiendo:
 - Insertar números en el árbol.
-- Mostrar el recorrido *inorden*.
+- Mostrar el recorrido inorden.
 - Buscar un número dentro del árbol.
 El propósito es comprender la estructura y funcionamiento de los árboles binarios, reforzando habilidades en programación y estructuras de datos.
 
