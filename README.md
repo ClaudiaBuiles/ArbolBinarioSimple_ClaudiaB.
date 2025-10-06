@@ -21,7 +21,7 @@ El programa fue desarrollado en **Java** utilizando una clase `Nodo` para los el
 
 También incluye un **menú en consola** para interactuar con el usuario.
 
-## 🧪 Ejemplo de Ejecución en Consola
+##  Ejemplo de Ejecución en Consola
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/de7a6187-2221-4659-adfb-2a2830602aad" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/707c0ec5-3c4d-40b7-9bbc-96f2a8f8a9d8" />
