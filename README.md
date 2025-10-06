@@ -1,5 +1,4 @@
 # Proyecto: Árbol Binario en Java
-
 ## Estudiante
 - **Claudia Builes**
 
